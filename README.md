@@ -3,7 +3,7 @@ RN1015k500.mlmodel - Apple [Core ML](https://developer.apple.com/machine-learnin
 
 ## Instructions
 
-On macOS, download the files RN1015k500.aa, RN1015k500.ab, RN1015k500.ac and RN1015k500.ad to the same directory and run this command to obtain the file RN1015k500.mlmodel:
+On macOS, download the 4 files RN1015k500.aa, RN1015k500.ab, RN1015k500.ac and RN1015k500.ad to the same directory and run this command to create the file RN1015k500.mlmodel:
 
 ```sh
 $ cat RN1015k500.aa RN1015k500.ab RN1015k500.ac RN1015k500.ad > RN1015k500.mlmodel
